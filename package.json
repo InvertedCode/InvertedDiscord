@@ -1,5 +1,23 @@
 {
-  "name":"inverteddiscord",
-  "version":"1.0.0",
-  "author":"X-San"
+  "name": "@invertedcode/inverteddiscord",
+  "version": "1.0.0",
+  "author": "X-San",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  },
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InvertedCode/InvertedDiscord.git"
+  },
+  "licence": "MIT",
+  "bugs": {
+    "url": "https://github.com/InvertedCode/InvertedDiscord/issues"
+  },
+  "homepage": "https://github.com/InvertedCode/InvertedDiscord#readme",
+  "description": ""
 }
